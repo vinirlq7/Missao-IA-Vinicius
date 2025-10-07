@@ -50,7 +50,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: " A equipe cuja bocha estiver mais longe do bolim deve jogar até que consiga posicionar uma bola mais perto que a do adversário. ",
-                afirmacao: " A dinâmica do jogo é definida pela desvantagem posicional; a obrigação de jogar recai sobre a equipe que não detém "o ponto", forçando-a a tentar reverter a situação.",
+                afirmacao: " A dinâmica do jogo é definida pela desvantagem posicional; a obrigação de jogar recai sobre a equipe que não detém o ponto, forçando-a a tentar reverter a situação.",
             },
             {
                 texto: " As equipes jogam de forma estritamente alternada, uma bocha por vez, até que todas as bolas tenham sido lançadas.",
