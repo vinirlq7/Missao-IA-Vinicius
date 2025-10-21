@@ -107,7 +107,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Se fosse possível ...";
+    caixaPerguntas.textContent = "Pelo o que entendemos você é um jogador...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = " ";
 }
